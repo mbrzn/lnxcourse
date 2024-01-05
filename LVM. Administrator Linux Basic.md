@@ -1,5 +1,6 @@
 ---
 type: course
+title: '"LVM. Administrator Linux Basic"'
 ---
 
 LVM

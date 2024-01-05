@@ -3,7 +3,10 @@ type: course
 aliases:
   - "{ GIT. Otus. Administrator Linux. Basic"
   - "{ GIT Linux Basic"
+title: '"GIT. Administrator Linux. Basic. Otus"'
 ---
+
+
 
 ___ 
 tags:: 

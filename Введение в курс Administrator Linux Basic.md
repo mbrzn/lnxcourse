@@ -1,5 +1,6 @@
 ---
 type: course
+title: '"Введение в курс Administrator Linux Basic"'
 ---
 
 ### пригласительное объявление

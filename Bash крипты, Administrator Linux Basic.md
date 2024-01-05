@@ -1,5 +1,6 @@
 ---
 type: course
+title: '"Bash крипты, Administrator Linux Basic"'
 ---
 
 Bash крипты, лекция курса Administrator Linux Basic

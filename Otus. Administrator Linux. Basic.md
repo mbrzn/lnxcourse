@@ -5,7 +5,8 @@ aliases:
   - "{ Administrator Linux. Basic. Otus"
   - "{ Linux Basic"
 status: todo
-recommendedby:
+recommendedby: 
+title: Otus. Administrator Linux. Basic
 ---
 ___ 
 tags:: 
@@ -30,8 +31,8 @@ ___
   
   ## [[git/lnxcourse/Docker . Otus Linux Basic|Docker]]
 
-## [[git/lnxcourse/GIT. Administrator Linux. Basic. Otus 1|GIT]]
+## [[git/lnxcourse/GIT. Administrator Linux. Basic. Otus|GIT]]
 
-## [[git/lnxcourse/Сети. Базовые знания. Otus. Administrator Linux. Basic 1 1|Сети]]
+## [[git/lnxcourse/Сети. Базовые знания. Administrator Linux Basic. Otus|Сети]]
 
 

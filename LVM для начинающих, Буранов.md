@@ -3,7 +3,8 @@ type: course
 aliases:
   - $ LVM для начинающих, Буранов
 status: todo
-recommendedby:
+recommendedby: 
+title: '"LVM для начинающих, Буранов"'
 ---
 ___ 
 tags:: 

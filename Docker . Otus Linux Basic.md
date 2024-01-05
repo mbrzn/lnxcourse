@@ -1,5 +1,6 @@
 ---
 type: course
+title: '"Docker . Otus Linux Basic"'
 ---
 ## Предисловие
 ###### Цели занятия

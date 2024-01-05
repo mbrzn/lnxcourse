@@ -1,5 +1,6 @@
 ---
 type: course
+title: '"Вводный урок курса Administrator Linux Basic"'
 ---
 
 [Вводный урок](https://otus.ru/learning/261941/#)
