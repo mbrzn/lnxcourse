@@ -18,8 +18,8 @@ ___
 
 ## [[git/lnxcourse/Введение в курс Administrator Linux Basic|Введение]]
 
-## [[git/lnxcourse/Вводный урок курса Administrator Linux Basic|Вводный урок ч.1]]
-## [[git/lnxcourse/Вводный урок, продолжение. Administrator Linux Basic|Вводный урок ч.2]]
+## [[git/lnxcourse/Вводный урок ч.1, Administrator Linux Basic|Вводный урок ч.1]]
+## [[git/lnxcourse/Вводный урок ч.2. Administrator Linux Basic|Вводный урок ч.2]]
 ## [[git/lnxcourse/Bash крипты ч.1, Administrator Linux Basic|Bash крипты ч.1]]
 ## [[git/lnxcourse/Bash скрипты, ч.2. Administrator Linux Basic|Bash крипты ч.2]]
 ## [[git/lnxcourse/Жёсткие диски. Administrator Linux Basic|Жёсткие диски]]
@@ -30,7 +30,7 @@ ___
   
   ## [[git/lnxcourse/Docker . Otus Linux Basic|Docker]]
 
-## [[git/lnxcourse/GIT. Administrator Linux. Basic. Otus|GIT]]
+## [[git/lnxcourse/GIT. Administrator Linux. Basic|GIT]]
 
 ## [[git/lnxcourse/Сети. Базовые знания. Administrator Linux Basic. Otus|Сети]]
 

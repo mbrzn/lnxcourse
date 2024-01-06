@@ -25,11 +25,11 @@ ___
 рассмотреть особенности git — распределенная система контроля версий (каждый клиент имеет полную копию репозитория);  
 поговорить об основных понятиях git;  
 установить и поработать с git (установка, создание репозитория, добавление файлов в репозиторий, коммит).
-![[lnxcourse/files/GIT-4.jpg]]
+![[git/lnxcourse/files/GIT-4 1.jpg]]
 
-![[lnxcourse/files/GIT-5.jpg]]
+![[git/lnxcourse/files/GIT-5 1.jpg]]
 
-![[lnxcourse/files/GIT-6.jpg]]
+![[git/lnxcourse/files/GIT-6.jpg]]
 
 ### Краткое содержание
 
@@ -40,12 +40,11 @@ ___
 ревизия (revision);  
 коммит (commit).  
 
-![[lnxcourse/files/GIT-7.jpg]]
+![[git/lnxcourse/files/GIT-7.jpg]]
 
 Расределенная - полная локальная копия проекта.
 
-![[lnxcourse/files/Pasted image 20231218024750.jpg]]
-![[lnxcourse/files/GIT-26.jpg]]
+![[git/lnxcourse/files/GIT-26.jpg]]
 Базовые термины
 - Репозиторий (repository, repo)
 - Рабочий каталог (working directory)
@@ -110,7 +109,7 @@ git config --global core.editor nano
 - Ссылки на коммиты и ветки 
 - Скрипты-хуки
 
-![[lnxcourse/files/lnxcourse/files/lnxcourse/files/GIT-10.jpg]]
+![[git/lnxcourse/files/GIT-10.jpg]]
 
 ```bash
 git add
@@ -496,11 +495,11 @@ Date:   Mon Dec 18 06:36:05 2023 +1000
 # a вот этот файл и его комит на gin hub:
 ```
 
-![[lnxcourse/files/GIT-15.jpg]]
-![[lnxcourse/files/GIT-16.jpg]]
+![[git/lnxcourse/files/GIT-15.jpg]]
+![[git/lnxcourse/files/GIT-16.jpg]]
 
 Суть гита - это возможность ответвлений и, далее, соединение веток вновь:
-![[lnxcourse/files/GIT-17.jpg]]
+![[git/lnxcourse/files/GIT-17.jpg]]
 
 ```bash
 # делаем ответвление
@@ -538,7 +537,7 @@ nothing to commit, working tree clean
 # на ветке feature вся история зафиксирована
 ```
 На `git hub` пока ничего не известно о новой ветке, там есть лишь `main`:
-![[lnxcourse/files/GIT-18.jpg]]
+![[git/lnxcourse/files/GIT-18.jpg]]
 
 ```bash
 # заливаем ветку на git hub
@@ -560,19 +559,19 @@ Branch 'feature' set up to track remote branch 'feature' from 'origin'.
 # теперь наши ветки (локальная и удаленная) связаны
 
 ```
-На гит хабе  в дереве веток появилась `feature`: ![[lnxcourse/files/GIT-20.jpg]]
+На гит хабе  в дереве веток появилась `feature`: ![[git/lnxcourse/files/GIT-20.jpg]]
 Эту ветку можно передавать другим разработчикам. 
 
 1:27:10
 Также появилась и особенная возможность гит хаба `pull requst`(выделена желтым), сокращенно `pr`.  Гость может попросить владельца репозитория влить эти изменения в ветку `main`, тогда ветка `main` изменится и станет видна измененной всеми прочими разработчиками.
 
-![[lnxcourse/files/GIT-21.jpg]]
+![[git/lnxcourse/files/GIT-21.jpg]]
 Гит хаб не обнаружил конфликтов. И предлагает слияние `merge`.
-![[lnxcourse/files/GIT-22.jpg]]
-![[lnxcourse/files/GIT-23.jpg]]
+![[git/lnxcourse/files/GIT-22.jpg]]
+![[git/lnxcourse/files/GIT-23.jpg]]
 
 Т.о. владелец репозитория увидел изменения, которые были предложенены в ветке `feature`, согласился с ними, и влил их в ветку `main`. Теперь в ветке `main` есть `file_feature`:
-![[lnxcourse/files/GIT-24.jpg]]
+![[git/lnxcourse/files/GIT-24.jpg]]
 
 ```bash
 # справочник по слиянию веток
@@ -618,7 +617,7 @@ chmod +x pre-commit
 ```
 
 Можно выливать на гит хаб уже имеющийся локальный репозиторий:
-![[lnxcourse/files/GIT-25.jpg]]
+![[git/lnxcourse/files/GIT-25.jpg]]
 
 
 ## Результаты
