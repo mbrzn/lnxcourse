@@ -28,9 +28,13 @@ ___
 
 ## [[git/lnxcourse/Установка MySQL-сервера и настройка репликации. Otus Linux Basic|Установка MySQL-сервера и настройка репликации]]
   
-  ## [[git/lnxcourse/Docker . Otus Linux Basic|Docker]]
+  ## [[git/lnxcourse/Docker . Linux Administrator Basic|Docker]]
 
 ## [[git/lnxcourse/GIT. Administrator Linux. Basic|GIT]]
+![[git/lnxcourse/GIT. Administrator Linux. Basic#^f61473|{ GIT. Otus. Administrator Linux. Basic]]
+
+![[git/lnxcourse/GIT. Administrator Linux. Basic#^18ec2b|GIT. Administrator Linux. Basic]]
+
 
 ## [[git/lnxcourse/Сети. Базовые знания. Administrator Linux Basic. Otus|Сети]]
 

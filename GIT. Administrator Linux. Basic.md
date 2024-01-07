@@ -53,7 +53,6 @@ ___
 - Область подготовленных файлов (staged area)
 	- она же - индекс
 	- промежуточная стадия между рабочей и фиксированной
-
 ## Локальный репозиторий
 ### cоздать репозиторий
 ```bash
@@ -498,7 +497,13 @@ Date:   Mon Dec 18 06:36:05 2023 +1000
 ![[git/lnxcourse/files/GIT-15.jpg]]
 ![[git/lnxcourse/files/GIT-16.jpg]]
 
-Суть гита - это возможность ответвлений и, далее, соединение веток вновь:
+> [!NOTE] Суть гита - создавать новое, безопасно для старого
+> - создать ответвление от старого
+> - отладить ответвление как самостоятельную сущность
+> - заменить старое новым
+
+^f61473
+
 ![[git/lnxcourse/files/GIT-17.jpg]]
 
 ```bash
@@ -578,34 +583,32 @@ Branch 'feature' set up to track remote branch 'feature' from 'origin'.
 
 # Сливаем измнения между ветками с конфликтом
 git pull
-
 git checkout feature
-
 git merge master
-
 nano test
-
 git add .
-
 git merge master
-
 git checkout master
-
 git merge feature
 
 git push origin master
-
 git checkout feature
 
 # Выливаем ветку в Github
 git push -u origin feature
+```
 
+```bash
 # Откат изменений
 git revert [commit ID 7 first chars]
 
 # Создать ветку от кокретного коммента
 git checkout -b feature2 [commit ID 7 first chars]
+```
 
+^18ec2b
+
+```bash
 cd .git/hooks
 cat > pre-commit
 #!/bin/bash
@@ -630,7 +633,8 @@ chmod +x pre-commit
 - управление безопасностью и мониторинг
 - работа в Git
 
-## [[GIT Linux Basic, домашнее задание]]
+## Домашнее задание
+- [[GIT Linux Basic, домашнее задание]]
 
 ## Литература
 1. [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/)
