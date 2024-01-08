@@ -215,8 +215,8 @@ sudo docker stats --format "table {{.Name}}:\t {{.NetIO}}" --no-stream
 # не потоковый вывод, но единичное, одномоментное значение
 ```
 - [x] Здесь предлагается измерять трафик в Mbit, что очень грубая единица измерения, 
-	- [x] см. [wheretrafic.sh](git@github.com:mbrzn/nginx_balancer.git)
-		- [x] и синтаксический анализатор [trafic.sh](git@github.com:mbrzn/nginx_balancer.git)
+	- [x] см. [wheretrafic.sh](https://github.com/mbrzn/nginx_balancer/blob/2d22e3678831b2ad9a1356fb53b6dd24f6f8f7b1/wheretrafic.sh)
+		- [x] и синтаксический анализатор [trafic.sh](https://github.com/mbrzn/nginx_balancer/blob/2d22e3678831b2ad9a1356fb53b6dd24f6f8f7b1/trafic.sh)
 - [ ] нужен другой, более чувствительный инструмент
 
 
