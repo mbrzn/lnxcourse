@@ -168,6 +168,7 @@ Docker - система низлежащих технологий. Это нек
 
 ![[Pasted image 20231215053504.jpg]]
 
+## Установка Docker
 Нам сейчас не требуется фирменный репозиторий docker-а, ставим:
 ```bash
 # Установка Docker
@@ -256,7 +257,7 @@ CONTAINER ID   IMAGE         COMMAND    CREATED         STATUS                  
 
 ```
 
-### docker nginx
+## docker nginx
 ```bash
 # Поищем nginx
 $ sudo docker search nginx

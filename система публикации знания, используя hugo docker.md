@@ -34,7 +34,7 @@ sudo docker run --name hugo-slave -p 1314:1313 \
 Конфиг и скрипты предполагается совершенствовать посредством *метода контроля версий git*, поэтому репозиторий с ними следует разместить в локальной директории  linux-хост-сервера, содержащей в себе git-репозитории, используемые на хост-сервере, у нас:
 ```bash
 mkdir /opt/git/nginx_balancer/
-cd /opt/git/nginx_balancer/
+cd /opt/git/
 git clone git@github.com:mbrzn/nginx_balancer.git
 ```
 

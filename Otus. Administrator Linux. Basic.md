@@ -38,4 +38,8 @@ ___
 
 ## [[git/lnxcourse/Сети. Базовые знания. Administrator Linux Basic. Otus|Сети]]
 
+## [[git/lnxcourse/Сети. Базовые знания. Administrator Linux Basic. Otus|Сети]]
 
+[](https://otus.ru/learning/261941/#)
+
+[[git/lnxcourse/Мониторинг. Administrator Linux Basic. Otus|Мониторинг]]
