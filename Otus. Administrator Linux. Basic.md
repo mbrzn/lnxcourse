@@ -35,11 +35,8 @@ ___
 
 ![[git/lnxcourse/GIT. Administrator Linux. Basic#^18ec2b|GIT. Administrator Linux. Basic]]
 
-
 ## [[git/lnxcourse/Сети. Базовые знания. Administrator Linux Basic. Otus|Сети]]
 
-## [[git/lnxcourse/Сети. Базовые знания. Administrator Linux Basic. Otus|Сети]]
+## [[Сети. tcpdump. Administrator Linux. Basic]]
 
-[](https://otus.ru/learning/261941/#)
-
-[[git/lnxcourse/Мониторинг. Administrator Linux Basic. Otus|Мониторинг]]
+## [[git/lnxcourse/Мониторинг. Administrator Linux Basic. Otus|Мониторинг]]
