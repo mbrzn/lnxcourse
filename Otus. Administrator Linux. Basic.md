@@ -40,3 +40,4 @@ ___
 ## [[Сети. tcpdump. Administrator Linux. Basic]]
 
 ## [[git/lnxcourse/Мониторинг. Administrator Linux Basic. Otus|Мониторинг]]
+## [[Логирование. Administrator Linux Basic. Otus|Логирование]]

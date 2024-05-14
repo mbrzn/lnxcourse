@@ -1,5 +1,5 @@
 ---
 title: "Linux courses"
 ---
-- [[OTUS. Linux для начинающих]]
+- [[Конфигурирование web-сервера (apache, nginx, балансировка nginx). Administrator Linux Basic]]
 - [[git/lnxcourse/Otus. Administrator Linux. Basic|Otus. Administrator Linux. Basic]]
